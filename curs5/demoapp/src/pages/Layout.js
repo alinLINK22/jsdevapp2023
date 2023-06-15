@@ -17,6 +17,9 @@ export default function Layout() {
           <Link to="/aaa">Page 404</Link>
         </li>
         </li>
+        <li>
+                <Link to="/autor">Autor</Link>
+              </li>
       </ul>
     </nav>
     <Outlet />
