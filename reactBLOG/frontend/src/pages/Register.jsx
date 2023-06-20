@@ -75,8 +75,8 @@ export default function Register() {
   };
   if (!authenticated) {
     // Redirect
-    alert(1234);
-    return <Navigate replace to="/all-posts" />;
+    // alert(1234);
+    // return <Navigate replace to="/all-posts" />;
     
   } else {
     return (
